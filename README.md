@@ -82,3 +82,17 @@ Visualizations include:
 Install dependencies using pip:
 
 pip install tensorflow numpy matplotlib seaborn pandas scikit-learn
+
+## Future Work
+- Integrate model into a real-time traffic sign detection system.
+
+- Improve generalization to work with varied lighting and occlusion conditions.
+
+- Deploy as a web or mobile application.
+
+## 🙏 Acknowledgments
+- Dataset: German Traffic Sign Recognition Benchmark (GTSRB)
+
+- TensorFlow and Keras documentation
+
+- Open-source community contributions
